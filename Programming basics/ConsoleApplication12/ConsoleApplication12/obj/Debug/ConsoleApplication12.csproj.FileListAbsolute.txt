@@ -1,0 +1,5 @@
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

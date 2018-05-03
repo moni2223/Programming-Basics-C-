@@ -1,0 +1,6 @@
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe.config
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb

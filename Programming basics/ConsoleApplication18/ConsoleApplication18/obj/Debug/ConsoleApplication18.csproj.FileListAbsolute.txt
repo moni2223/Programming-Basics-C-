@@ -1,0 +1,6 @@
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb

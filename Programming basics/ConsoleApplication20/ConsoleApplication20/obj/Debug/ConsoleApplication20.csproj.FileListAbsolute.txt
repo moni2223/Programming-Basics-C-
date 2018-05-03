@@ -1,0 +1,6 @@
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+C:\Users\Yoana\Desktop\Programi\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb

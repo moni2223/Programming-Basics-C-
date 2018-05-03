@@ -1,0 +1,10 @@
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.Form1.resources
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.Cache
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\Users\Yoana\Desktop\Programi\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
